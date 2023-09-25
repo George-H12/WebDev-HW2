@@ -1,0 +1,45 @@
+body{
+    background-image: url('tech_background.png');
+    background-size: cover;
+}
+
+nav h2{
+    color: burlywood;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px
+}
+
+.response-section{
+    margin-top: 10px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    margin: 0 auto;
+}
+
+h1{
+    font-style: italic;
+    color: aliceblue;
+    font-size: 50px;
+    overflow: hidden;
+    border-right: 5px solid whitesmoke;
+    white-space: nowrap;
+}
+
+.response-section h2{
+    font-style: oblique;
+    color: aliceblue;
+}
+
+p{
+    font-style: italic;
+    color: aquamarine;
+    margin-left: 85%;
+}
+
